@@ -41,7 +41,7 @@ Helix enforces fairness and transparency through:
 3. **Verifiable AI Agents** — Auditable AI models assist in PR review and code evaluation. Their actions and reputations are tracked on-chain.
 4. **Polkadot zk-Based Identity Verification** — Zero-knowledge proofs ensure every contributor is a legitimate human, preventing duplicate or fake identities.
 
-![Sentinel Workflow](https://github.com/user-attachments/assets/62f485cf-6c26-44a0-9dd4-ef69ebf900f7)
+![Helix Workflow](https://github.com/user-attachments/assets/62f485cf-6c26-44a0-9dd4-ef69ebf900f7)
 
 ---
 
